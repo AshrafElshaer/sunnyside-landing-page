@@ -1,0 +1,43 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+* , *::after , *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+    
+}
+h1 , h2 , h3 , h4 , h5 , h6{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    margin: 1rem 0;
+}
+h5{
+    font-size: 18px;
+}
+p{
+    margin: 1rem 0 ;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+button{
+    background: none;
+    border: none;
+}
+
+
